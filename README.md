@@ -4,7 +4,7 @@
 
 + Current LTS version sep/24 (20.17.0)
 + Node internal modules
-    + Crypto
+    + crypto
     + randomUUID
     + fs/promises
     + stream
